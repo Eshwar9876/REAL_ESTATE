@@ -19,7 +19,7 @@ function Navbar() {
       <div className="left">
         <a href="/" className="logo">
           <img src="/logo.jpeg" alt="" />
-          <span>LamaEstate</span>
+          <span>RealEstate</span>
         </a>
         <a href="/">Home</a>
         <a href="/">About</a>
